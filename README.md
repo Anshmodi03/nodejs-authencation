@@ -127,3 +127,6 @@ PORT=3000
 <li>Only <code>admin</code> users can access the <code>/users</code> endpoint to view all registered users.</li>
 <li>Ensure to keep your <code>JWT_SECRET</code> secure and do not expose it publicly.</li>
 </ul>
+<h2>Links</h2>
+
+[Medium Article](https://medium.com/@modiaastha01/how-to-build-a-role-based-authentication-system-with-node-js-express-mongodb-and-jwt-f32a9bbdfafb)
